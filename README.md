@@ -1,4 +1,4 @@
-## There is kznr，now a mania Rustacean🦀
+## There is Tamaya，now a mania Rustacean🦀
 
 I'm a personal developer, now in embedded carrier.
 
